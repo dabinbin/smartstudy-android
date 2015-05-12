@@ -4,4 +4,4 @@
     <item android:state_checked="true" android:drawable="@drawable/tab_course_press"></item>
 
 </selector>
-<!-- From: file:/Users/zheng/git/smartstudy-android1/smartStudy/src/main/res/drawable/tab_selector_course.xml -->
+<!-- From: file:/Users/zheng/Desktop/zhike/smartstudy-android2/smartStudy/src/main/res/drawable/tab_selector_course.xml -->

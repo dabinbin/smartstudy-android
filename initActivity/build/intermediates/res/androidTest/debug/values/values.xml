@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/zheng/git/smartstudy-android1/initActivity/build/intermediates/bundles/debug/res/values/values.xml -->
+    <!-- From: file:/Users/zheng/Desktop/zhike/smartstudy-android2/initActivity/build/intermediates/bundles/debug/res/values/values.xml -->
     <eat-comment/>
     <color name="mediacontroller_bg">#99000000</color>
     <color name="mediacontroller_bg_pressed">#ff53c1bd</color>

@@ -12,4 +12,4 @@
         android:toAlpha="1.0"
         android:duration="300"
         android:fillAfter="true"/>
-    </set><!-- From: file:/Users/zheng/git/smartstudy-android1/smartStudy/src/main/res/anim/option_entry_from_top.xml -->
+    </set><!-- From: file:/Users/zheng/Desktop/zhike/smartstudy-android2/smartStudy/src/main/res/anim/option_entry_from_top.xml -->

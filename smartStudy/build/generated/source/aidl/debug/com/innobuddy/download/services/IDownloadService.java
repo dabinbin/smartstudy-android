@@ -1,6 +1,6 @@
 /*
  * This file is auto-generated.  DO NOT MODIFY.
- * Original file: /Users/zheng/git/smartstudy-android1/smartStudy/src/main/aidl/com/innobuddy/download/services/IDownloadService.aidl
+ * Original file: /Users/zheng/Desktop/zhike/smartstudy-android2/smartStudy/src/main/aidl/com/innobuddy/download/services/IDownloadService.aidl
  */
 package com.innobuddy.download.services;
 public interface IDownloadService extends android.os.IInterface

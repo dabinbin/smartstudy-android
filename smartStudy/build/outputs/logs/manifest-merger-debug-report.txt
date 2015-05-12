@@ -15,7 +15,6 @@ ADDED from AndroidManifest.xml:2:1
 		ADDED from AndroidManifest.xml:2:11
 uses-sdk
 ADDED from AndroidManifest.xml:7:5
-MERGED from com.android.support:support-v4:22.1.1:20:5
 MERGED from com.android.support:appcompat-v7:22.1.1:20:5
 MERGED from com.android.support:support-v4:22.1.1:20:5
 	android:targetSdkVersion
@@ -28,7 +27,7 @@ MERGED from com.android.support:support-v4:22.1.1:20:5
 		INJECTED from AndroidManifest.xml:0:0
 uses-permission#android.permission.INTERNET
 ADDED from AndroidManifest.xml:11:5
-MERGED from smartstudy-android1:initActivity:unspecified:8:5
+MERGED from smartstudy-android2:initActivity:unspecified:8:5
 	android:name
 		ADDED from AndroidManifest.xml:11:22
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
@@ -41,7 +40,7 @@ ADDED from AndroidManifest.xml:13:5
 		ADDED from AndroidManifest.xml:13:22
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from AndroidManifest.xml:14:5
-MERGED from smartstudy-android1:initActivity:unspecified:9:5
+MERGED from smartstudy-android2:initActivity:unspecified:9:5
 	android:name
 		ADDED from AndroidManifest.xml:14:22
 uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
@@ -58,8 +57,7 @@ ADDED from AndroidManifest.xml:19:5
 		ADDED from AndroidManifest.xml:19:22
 application
 ADDED from AndroidManifest.xml:21:5
-MERGED from smartstudy-android1:initActivity:unspecified:11:5
-MERGED from com.android.support:support-v4:22.1.1:22:5
+MERGED from smartstudy-android2:initActivity:unspecified:11:5
 MERGED from com.android.support:appcompat-v7:22.1.1:22:5
 MERGED from com.android.support:support-v4:22.1.1:22:5
 	android:label
@@ -88,7 +86,7 @@ ADDED from AndroidManifest.xml:34:9
 		ADDED from AndroidManifest.xml:35:13
 activity#io.vov.vitamio.activity.InitActivity
 ADDED from AndroidManifest.xml:38:9
-MERGED from smartstudy-android1:initActivity:unspecified:12:9
+MERGED from smartstudy-android2:initActivity:unspecified:12:9
 	android:launchMode
 		ADDED from AndroidManifest.xml:41:13
 	android:windowSoftInputMode
@@ -234,6 +232,6 @@ ADDED from AndroidManifest.xml:123:9
 	android:name
 		ADDED from AndroidManifest.xml:124:13
 uses-permission#android.permission.WAKE_LOCK
-ADDED from smartstudy-android1:initActivity:unspecified:7:5
+ADDED from smartstudy-android2:initActivity:unspecified:7:5
 	android:name
-		ADDED from smartstudy-android1:initActivity:unspecified:7:22
+		ADDED from smartstudy-android2:initActivity:unspecified:7:22

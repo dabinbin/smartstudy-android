@@ -7,4 +7,4 @@
 		android:drawable="@drawable/video_line01" />
 	<!-- 进和能量图 -->
 	<item android:id="@+android:id/progress" android:drawable="@drawable/video_line02" />
-</layer-list><!-- From: file:/Users/zheng/git/smartstudy-android1/smartStudy/src/main/res/drawable/seekbar.xml -->
+</layer-list><!-- From: file:/Users/zheng/Desktop/zhike/smartstudy-android2/smartStudy/src/main/res/drawable/seekbar.xml -->

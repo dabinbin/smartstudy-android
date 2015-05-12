@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/zheng/git/smartstudy-android1/smartStudy/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values/values.xml -->
+    <!-- From: file:/Users/zheng/Desktop/zhike/smartstudy-android2/smartStudy/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values/values.xml -->
     <eat-comment/>
     <attr format="reference" name="drawerArrowStyle"/>
     <attr format="dimension" name="height"/>
@@ -35,11 +35,11 @@
     <color name="dim_foreground_disabled_material_light">#80323232</color>
     <color name="dim_foreground_material_dark">#ffbebebe</color>
     <color name="dim_foreground_material_light">#ff323232</color>
-    <!-- From: file:/Users/zheng/git/smartstudy-android1/smartStudy/src/main/res/values/colors.xml -->
+    <!-- From: file:/Users/zheng/Desktop/zhike/smartstudy-android2/smartStudy/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="haf_orange">#f0b195</color>
     <color name="haf_transparent">#7f000000</color>
-    <!-- From: file:/Users/zheng/git/smartstudy-android1/smartStudy/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values/values.xml -->
+    <!-- From: file:/Users/zheng/Desktop/zhike/smartstudy-android2/smartStudy/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values/values.xml -->
     <eat-comment/>
     <color name="highlighted_text_material_dark">#6680cbc4</color>
     <color name="highlighted_text_material_light">#66009688</color>
@@ -52,11 +52,11 @@
     <color name="material_blue_grey_950">#ff21272b</color>
     <color name="material_deep_teal_200">#ff80cbc4</color>
     <color name="material_deep_teal_500">#ff009688</color>
-    <!-- From: file:/Users/zheng/git/smartstudy-android1/smartStudy/build/intermediates/exploded-aar/smartstudy-android1/initActivity/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/zheng/Desktop/zhike/smartstudy-android2/smartStudy/build/intermediates/exploded-aar/smartstudy-android2/initActivity/unspecified/res/values/values.xml -->
     <eat-comment/>
     <color name="mediacontroller_bg">#99000000</color>
     <color name="mediacontroller_bg_pressed">#ff53c1bd</color>
-    <!-- From: file:/Users/zheng/git/smartstudy-android1/smartStudy/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values/values.xml -->
+    <!-- From: file:/Users/zheng/Desktop/zhike/smartstudy-android2/smartStudy/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values/values.xml -->
     <eat-comment/>
     <color name="primary_dark_material_dark">#ff000000</color>
     <color name="primary_dark_material_light">#ff757575</color>
@@ -72,19 +72,19 @@
     <color name="secondary_text_default_material_light">#8a000000</color>
     <color name="secondary_text_disabled_material_dark">#36ffffff</color>
     <color name="secondary_text_disabled_material_light">#24000000</color>
-    <!-- From: file:/Users/zheng/git/smartstudy-android1/smartStudy/src/main/res/values/colors.xml -->
+    <!-- From: file:/Users/zheng/Desktop/zhike/smartstudy-android2/smartStudy/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="selected">#54c4ff</color>
-    <!-- From: file:/Users/zheng/git/smartstudy-android1/smartStudy/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values/values.xml -->
+    <!-- From: file:/Users/zheng/Desktop/zhike/smartstudy-android2/smartStudy/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values/values.xml -->
     <eat-comment/>
     <color name="switch_thumb_disabled_material_dark">#ff616161</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>
-    <!-- From: file:/Users/zheng/git/smartstudy-android1/smartStudy/build/intermediates/exploded-aar/smartstudy-android1/initActivity/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/zheng/Desktop/zhike/smartstudy-android2/smartStudy/build/intermediates/exploded-aar/smartstudy-android2/initActivity/unspecified/res/values/values.xml -->
     <eat-comment/>
     <color name="transparent">#00000000</color>
-    <!-- From: file:/Users/zheng/git/smartstudy-android1/smartStudy/src/main/res/values/colors.xml -->
+    <!-- From: file:/Users/zheng/Desktop/zhike/smartstudy-android2/smartStudy/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="white">#ffffff</color>
     <declare-styleable name="ActionBar"><attr name="navigationMode"><enum name="normal" value="0"/><enum name="listMode" value="1"/><enum name="tabMode" value="2"/></attr><attr name="displayOptions"><flag name="none" value="0"/><flag name="useLogo" value="0x1"/><flag name="showHome" value="0x2"/><flag name="homeAsUp" value="0x4"/><flag name="showTitle" value="0x8"/><flag name="showCustom" value="0x10"/><flag name="disableHome" value="0x20"/></attr><attr name="title"/><attr format="string" name="subtitle"/><attr format="reference" name="titleTextStyle"/><attr format="reference" name="subtitleTextStyle"/><attr format="reference" name="icon"/><attr format="reference" name="logo"/><attr format="reference" name="divider"/><attr format="reference" name="background"/><attr format="reference|color" name="backgroundStacked"/><attr format="reference|color" name="backgroundSplit"/><attr format="reference" name="customNavigationLayout"/><attr name="height"/><attr format="reference" name="homeLayout"/><attr format="reference" name="progressBarStyle"/><attr format="reference" name="indeterminateProgressStyle"/><attr format="dimension" name="progressBarPadding"/><attr name="homeAsUpIndicator"/><attr format="dimension" name="itemPadding"/><attr format="boolean" name="hideOnContentScroll"/><attr format="dimension" name="contentInsetStart"/><attr format="dimension" name="contentInsetEnd"/><attr format="dimension" name="contentInsetLeft"/><attr format="dimension" name="contentInsetRight"/><attr format="dimension" name="elevation"/><attr format="reference" name="popupTheme"/></declare-styleable>
@@ -112,7 +112,7 @@
     <declare-styleable name="Toolbar"><attr format="reference" name="titleTextAppearance"/><attr format="reference" name="subtitleTextAppearance"/><attr name="title"/><attr name="subtitle"/><attr name="android:gravity"/><attr format="dimension" name="titleMargins"/><attr format="dimension" name="titleMarginStart"/><attr format="dimension" name="titleMarginEnd"/><attr format="dimension" name="titleMarginTop"/><attr format="dimension" name="titleMarginBottom"/><attr name="contentInsetStart"/><attr name="contentInsetEnd"/><attr name="contentInsetLeft"/><attr name="contentInsetRight"/><attr format="dimension" name="maxButtonHeight"/><attr format="reference" name="collapseIcon"/><attr format="string" name="collapseContentDescription"/><attr name="popupTheme"/><attr format="reference" name="navigationIcon"/><attr format="string" name="navigationContentDescription"/><attr name="android:minHeight"/></declare-styleable>
     <declare-styleable name="View"><attr format="dimension" name="paddingStart"/><attr format="dimension" name="paddingEnd"/><attr name="android:focusable"/><attr format="reference" name="theme"/><attr name="android:theme"/><attr format="color" name="backgroundTint"/><attr name="backgroundTintMode"><enum name="src_over" value="3"/><enum name="src_in" value="5"/><enum name="src_atop" value="9"/><enum name="multiply" value="14"/><enum name="screen" value="15"/></attr></declare-styleable>
     <declare-styleable name="ViewStubCompat"><attr name="android:layout"/><attr name="android:inflatedId"/><attr name="android:id"/></declare-styleable>
-    <!-- From: file:/Users/zheng/git/smartstudy-android1/smartStudy/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values/values.xml -->
+    <!-- From: file:/Users/zheng/Desktop/zhike/smartstudy-android2/smartStudy/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values/values.xml -->
     <eat-comment/>
     <dimen name="abc_action_bar_content_inset_material">16dp</dimen>
     <dimen name="abc_action_bar_default_height_material">56dp</dimen>
@@ -174,12 +174,12 @@
     <dimen name="abc_text_size_subtitle_material_toolbar">16dp</dimen>
     <dimen name="abc_text_size_title_material">20sp</dimen>
     <dimen name="abc_text_size_title_material_toolbar">20dp</dimen>
-    <!-- From: file:/Users/zheng/git/smartstudy-android1/smartStudy/src/main/res/values/dimens.xml -->
+    <!-- From: file:/Users/zheng/Desktop/zhike/smartstudy-android2/smartStudy/src/main/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
     <dimen name="cursor_height">5dp</dimen>
-    <!-- From: file:/Users/zheng/git/smartstudy-android1/smartStudy/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values/values.xml -->
+    <!-- From: file:/Users/zheng/Desktop/zhike/smartstudy-android2/smartStudy/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values/values.xml -->
     <eat-comment/>
     <item name="dialog_fixed_height_major" type="dimen">80%</item>
     <item name="dialog_fixed_height_minor" type="dimen">100%</item>
@@ -187,10 +187,10 @@
     <item name="dialog_fixed_width_minor" type="dimen">320dp</item>
     <item format="float" name="disabled_alpha_material_dark" type="dimen">0.30</item>
     <item format="float" name="disabled_alpha_material_light" type="dimen">0.26</item>
-    <!-- From: file:/Users/zheng/git/smartstudy-android1/smartStudy/src/main/res/values/dimens.xml -->
+    <!-- From: file:/Users/zheng/Desktop/zhike/smartstudy-android2/smartStudy/src/main/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="tab_height">45dp</dimen>
-    <!-- From: file:/Users/zheng/git/smartstudy-android1/smartStudy/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values/values.xml -->
+    <!-- From: file:/Users/zheng/Desktop/zhike/smartstudy-android2/smartStudy/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values/values.xml -->
     <eat-comment/>
     <item name="action_bar_activity_content" type="id"/>
     <item name="action_bar_spinner" type="id"/>
@@ -204,7 +204,7 @@
     <integer name="abc_config_activityDefaultDur">220</integer>
     <integer name="abc_config_activityShortDur">150</integer>
     <integer name="abc_max_action_buttons">2</integer>
-    <!-- From: file:/Users/zheng/git/smartstudy-android1/smartStudy/build/intermediates/exploded-aar/smartstudy-android1/initActivity/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/zheng/Desktop/zhike/smartstudy-android2/smartStudy/build/intermediates/exploded-aar/smartstudy-android2/initActivity/unspecified/res/values/values.xml -->
     <eat-comment/>
     <string name="VideoView_error_button">OK</string>
     <string name="VideoView_error_text_invalid_progressive_playback">Sorry, this video is not valid for streaming to
@@ -212,7 +212,7 @@
     </string>
     <string name="VideoView_error_text_unknown">Sorry, this video cannot be played.</string>
     <string name="VideoView_error_title">Cannot play video</string>
-    <!-- From: file:/Users/zheng/git/smartstudy-android1/smartStudy/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values/values.xml -->
+    <!-- From: file:/Users/zheng/Desktop/zhike/smartstudy-android2/smartStudy/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values/values.xml -->
     <eat-comment/>
     <string name="abc_action_bar_home_description">Navigate home</string>
     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
@@ -231,13 +231,13 @@
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
-    <!-- From: file:/Users/zheng/git/smartstudy-android1/smartStudy/src/main/res/values/strings.xml -->
+    <!-- From: file:/Users/zheng/Desktop/zhike/smartstudy-android2/smartStudy/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="action_clear">清空</string>
     <string name="action_settings">设置</string>
     <string name="app_name">智课堂</string>
     <string name="digits">abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMEOPQRSTUVWXYZ0123456789</string>
-    <!-- From: file:/Users/zheng/git/smartstudy-android1/smartStudy/build/intermediates/exploded-aar/smartstudy-android1/initActivity/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/zheng/Desktop/zhike/smartstudy-android2/smartStudy/build/intermediates/exploded-aar/smartstudy-android2/initActivity/unspecified/res/values/values.xml -->
     <eat-comment/>
     <string name="mediacontroller_play_pause">Play/Pause</string>
     <string name="permission_group_tools_description">Access Vitamio package and resources.</string>
@@ -247,7 +247,7 @@
     <string name="permission_write_providers_description">Delete, update or create new items in Vitamio providers.
     </string>
     <string name="permission_write_providers_label">Write Vitamio providers</string>
-    <!-- From: file:/Users/zheng/git/smartstudy-android1/smartStudy/src/main/res/values/strings.xml -->
+    <!-- From: file:/Users/zheng/Desktop/zhike/smartstudy-android2/smartStudy/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="title_activity_aboutus">关于我们</string>
     <string name="title_activity_backpassword">找回密码</string>
@@ -258,11 +258,11 @@
     <string name="title_activity_register">注册</string>
     <string name="title_activity_reset">重置密码</string>
     <string name="title_activity_video">播放器</string>
-    <!-- From: file:/Users/zheng/git/smartstudy-android1/smartStudy/build/intermediates/exploded-aar/smartstudy-android1/initActivity/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/zheng/Desktop/zhike/smartstudy-android2/smartStudy/build/intermediates/exploded-aar/smartstudy-android2/initActivity/unspecified/res/values/values.xml -->
     <eat-comment/>
     <string name="vitamio_init_decoders">Initializing decoders…</string>
     <string name="vitamio_library_app_name">VitamioLibrary</string>
-    <!-- From: file:/Users/zheng/git/smartstudy-android1/smartStudy/src/main/res/values/styles.xml -->
+    <!-- From: file:/Users/zheng/Desktop/zhike/smartstudy-android2/smartStudy/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="ActionBar.TitleTextStyle" parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Title">
         <item name="android:textColor">@color/white</item>
@@ -272,13 +272,13 @@
         <item name="android:textColor">@color/white</item>
         <item name="android:textSize">14sp</item>
     </style>
-    <!-- From: file:/Users/zheng/git/smartstudy-android1/smartStudy/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values/values.xml -->
+    <!-- From: file:/Users/zheng/Desktop/zhike/smartstudy-android2/smartStudy/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values/values.xml -->
     <eat-comment/>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
     <style name="Animation.AppCompat.Dialog" parent="Base.Animation.AppCompat.Dialog"/>
     <style name="Animation.AppCompat.DropDownUp" parent="Base.Animation.AppCompat.DropDownUp"/>
-    <!-- From: file:/Users/zheng/git/smartstudy-android1/smartStudy/src/main/res/values/styles.xml -->
+    <!-- From: file:/Users/zheng/Desktop/zhike/smartstudy-android2/smartStudy/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="AppBaseTheme" parent="Theme.AppCompat.Light">
         <!--
@@ -292,7 +292,7 @@
         <item name="android:actionBarStyle">@style/actionbar_style</item>
         <item name="android:actionMenuTextAppearance">@style/ActionBar.menuTextStyle</item>
     </style>
-    <!-- From: file:/Users/zheng/git/smartstudy-android1/smartStudy/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values/values.xml -->
+    <!-- From: file:/Users/zheng/Desktop/zhike/smartstudy-android2/smartStudy/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values/values.xml -->
     <eat-comment/>
     <style name="Base.AlertDialog.AppCompat" parent="android:Widget">
         <item name="android:layout">@layout/abc_alert_dialog_material</item>
@@ -1203,7 +1203,7 @@
         <item name="android:scaleType">center</item>
         <item name="android:background">?attr/selectableItemBackground</item>
     </style>
-    <!-- From: file:/Users/zheng/git/smartstudy-android1/smartStudy/build/intermediates/exploded-aar/smartstudy-android1/initActivity/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/zheng/Desktop/zhike/smartstudy-android2/smartStudy/build/intermediates/exploded-aar/smartstudy-android2/initActivity/unspecified/res/values/values.xml -->
     <eat-comment/>
     <style name="MediaController_SeekBar" parent="android:Widget.SeekBar">
         <item name="android:progressDrawable">@drawable/scrubber_progress_horizontal_holo_dark</item>
@@ -1220,7 +1220,7 @@
         <item name="android:textSize">14sp</item>
         <item name="android:textStyle">bold</item>
     </style>
-    <!-- From: file:/Users/zheng/git/smartstudy-android1/smartStudy/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values/values.xml -->
+    <!-- From: file:/Users/zheng/Desktop/zhike/smartstudy-android2/smartStudy/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values/values.xml -->
     <eat-comment/>
     <style name="Platform.AppCompat" parent="android:Theme">
         <item name="android:windowNoTitle">true</item>
@@ -1358,13 +1358,13 @@
     <style name="RtlOverlay.Widget.AppCompat.Toolbar.Button.Navigation" parent="Base.Widget.AppCompat.Toolbar.Button.Navigation">
         <item name="android:paddingLeft">@dimen/abc_action_bar_navigation_padding_start_material</item>
     </style>
-    <!-- From: file:/Users/zheng/git/smartstudy-android1/smartStudy/src/main/res/values/styles.xml -->
+    <!-- From: file:/Users/zheng/Desktop/zhike/smartstudy-android2/smartStudy/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="Style.ActionBarTabTextStyle" parent="android:style/Widget.Holo.Light.ActionBar.TabText">        
         <item name="android:textColor">#000000</item>
         <item name="android:textSize">16sp</item>   
     </style>
-    <!-- From: file:/Users/zheng/git/smartstudy-android1/smartStudy/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values/values.xml -->
+    <!-- From: file:/Users/zheng/Desktop/zhike/smartstudy-android2/smartStudy/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values/values.xml -->
     <eat-comment/>
     <style name="TextAppearance.AppCompat" parent="Base.TextAppearance.AppCompat"/>
     <style name="TextAppearance.AppCompat.Body1" parent="Base.TextAppearance.AppCompat.Body1"/>
@@ -1546,7 +1546,7 @@
     <style name="Widget.AppCompat.TextView.SpinnerItem" parent="Base.Widget.AppCompat.TextView.SpinnerItem"/>
     <style name="Widget.AppCompat.Toolbar" parent="Base.Widget.AppCompat.Toolbar"/>
     <style name="Widget.AppCompat.Toolbar.Button.Navigation" parent="RtlOverlay.Widget.AppCompat.Toolbar.Button.Navigation"/>
-    <!-- From: file:/Users/zheng/git/smartstudy-android1/smartStudy/src/main/res/values/styles.xml -->
+    <!-- From: file:/Users/zheng/Desktop/zhike/smartstudy-android2/smartStudy/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="actionbar_style" parent="@android:style/Widget.Holo.Light.ActionBar">
         <item name="android:background">#54c4ff</item>

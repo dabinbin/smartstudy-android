@@ -22,7 +22,7 @@ public class BaseActivity extends Activity implements OnClickListener {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		
-		
+//		123
 		
 		/******************/
 		http=new HttpUtils();
