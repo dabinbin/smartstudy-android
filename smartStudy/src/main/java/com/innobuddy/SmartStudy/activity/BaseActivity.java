@@ -24,6 +24,7 @@ public class BaseActivity extends Activity implements OnClickListener {
 		
 //		123
 		//2222
+		//22
 		/******************/
 		http=new HttpUtils();
 		http.configCurrentHttpCacheExpiry(0); // 请求缓存
