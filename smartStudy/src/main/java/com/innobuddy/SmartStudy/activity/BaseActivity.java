@@ -23,7 +23,7 @@ public class BaseActivity extends Activity implements OnClickListener {
 		super.onCreate(savedInstanceState);
 		
 //		123
-		
+		//2222
 		/******************/
 		http=new HttpUtils();
 		http.configCurrentHttpCacheExpiry(0); // 请求缓存
