@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/zheng/git/smartstudy-android1/smartStudy/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/Users/zheng/git/smartstudy-android1/smartStudy/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-9a73390ffc4aa32652bb8df04345fdecad5abe40.jar" />
+    </item>
+    <item
+        jar="/Users/zheng/git/smartstudy-android1/smartStudy/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/Users/zheng/git/smartstudy-android1/smartStudy/build/intermediates/pre-dexed/debug/classes-764541a1801b8de452a387c45a5e8c4c98011f4a.jar" />
+    </item>
+    <item
+        jar="/Users/zheng/git/smartstudy-android1/smartStudy/libs/umeng-analytics-v5.4.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="75ef4894b1489017838dc57dbe9a5782ab12c427">
+        <dex dex="/Users/zheng/git/smartstudy-android1/smartStudy/build/intermediates/pre-dexed/debug/umeng-analytics-v5.4.2-dc638cc9855608c2ad20c5538b4abbf2839c8815.jar" />
+    </item>
+    <item
+        jar="/Users/zheng/git/smartstudy-android1/smartStudy/libs/android-async-http-1.4.5.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="77bf7cacf9cefe19dc105e5425d2eb1bb5285881">
+        <dex dex="/Users/zheng/git/smartstudy-android1/smartStudy/build/intermediates/pre-dexed/debug/android-async-http-1.4.5-78d0dffdde472595bcf7173d871b2650cd5e5cff.jar" />
+    </item>
+    <item
+        jar="/Users/zheng/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/Users/zheng/git/smartstudy-android1/smartStudy/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-b39ed7f37d04d4737478eae98c4a35afcab000d5.jar" />
+    </item>
+    <item
+        jar="/Users/zheng/git/smartstudy-android1/smartStudy/libs/xUtils-2.6.14.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f10c51f3e0732fdeefe6e104279a58e275879b6c">
+        <dex dex="/Users/zheng/git/smartstudy-android1/smartStudy/build/intermediates/pre-dexed/debug/xUtils-2.6.14-1196581ac54104edb399288fbac591e6ac08491f.jar" />
+    </item>
+    <item
+        jar="/Users/zheng/git/smartstudy-android1/smartStudy/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/Users/zheng/git/smartstudy-android1/smartStudy/build/intermediates/pre-dexed/debug/classes-3a6f7100476153137cd703fbeb14cc22a0082372.jar" />
+    </item>
+    <item
+        jar="/Users/zheng/git/smartstudy-android1/smartStudy/build/intermediates/exploded-aar/smartstudy-android1/initActivity/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c64f369f84d04108c574c3e1b53510848ff7b809">
+        <dex dex="/Users/zheng/git/smartstudy-android1/smartStudy/build/intermediates/pre-dexed/debug/classes-9981d639e6274254d1451f496354d3fe356f1a87.jar" />
+    </item>
+    <item
+        jar="/Users/zheng/git/smartstudy-android1/smartStudy/libs/universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="/Users/zheng/git/smartstudy-android1/smartStudy/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.3-5b68614b2a914db0b2b21da09ba90e84ee51d369.jar" />
+    </item>
+    <item
+        jar="/Users/zheng/git/smartstudy-android1/smartStudy/libs/android-support-v13.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="41c6fb0537e463f685d3235fc50d38dc540d6ece">
+        <dex dex="/Users/zheng/git/smartstudy-android1/smartStudy/build/intermediates/pre-dexed/debug/android-support-v13-9d509c7afb1d959e533179d2b6c28c7984c46923.jar" />
+    </item>
+
+</items>

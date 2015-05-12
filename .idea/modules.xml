@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/initActivity/initActivity.iml" filepath="$PROJECT_DIR$/initActivity/initActivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smartStudy/smartStudy.iml" filepath="$PROJECT_DIR$/smartStudy/smartStudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smartstudy-android1.iml" filepath="$PROJECT_DIR$/smartstudy-android1.iml" />
+    </modules>
+  </component>
+</project>

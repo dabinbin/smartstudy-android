@@ -1,0 +1,14 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.innobuddy.SmartStudy.fragment.CourseDetailFragment" >
+
+    <ListView
+        android:id="@+id/listView1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+    </ListView>
+    
+</FrameLayout>
+<!-- From: file:/Users/zheng/git/smartstudy-android1/smartStudy/src/main/res/layout/fragment_course_detail.xml -->

@@ -1,0 +1,7 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.innobuddy.SmartStudy.CourseDetailActivity" >
+
+
+</menu>
+<!-- From: file:/Users/zheng/git/smartstudy-android1/smartStudy/src/main/res/menu/course_detail.xml -->

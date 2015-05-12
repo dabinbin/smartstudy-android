@@ -1,0 +1,62 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:orientation="vertical"
+    tools:context=".MainActivity" >
+
+    <FrameLayout
+        android:id="@+id/realtabcontent"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <RadioGroup
+        android:id="@+id/tab_rg_menu"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="#303134"
+        android:orientation="horizontal" >
+
+        <RadioButton
+            android:id="@+id/tab_rb_1"
+            style="@style/tab_rb_style"
+            android:checked="true"
+            android:drawableTop="@drawable/tab_selector_course"
+            android:text="课程" 
+            />
+
+        <RadioButton
+            android:id="@+id/tab_rb_2"
+            style="@style/tab_rb_style"
+            android:drawableTop="@drawable/tab_selector_mine"
+            android:text="我的" />
+
+        <RadioButton
+            android:id="@+id/tab_rb_3"
+            style="@style/tab_rb_style"
+            android:drawableTop="@drawable/tab_selector_offline"
+            android:text="离线" />
+
+        <RadioButton
+            android:id="@+id/tab_rb_4"
+            style="@style/tab_rb_style"
+            android:drawableTop="@drawable/tab_selector_settings"
+            android:text="设置" />
+    </RadioGroup>
+
+    <android.support.v4.app.FragmentTabHost
+        android:id="@android:id/tabhost"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone" >
+
+        <FrameLayout
+            android:id="@android:id/tabcontent"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_weight="0" />
+    </android.support.v4.app.FragmentTabHost>
+    
+</LinearLayout>

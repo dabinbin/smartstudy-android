@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="10dip"
+        android:text="意见反馈"
+        android:textSize="16sp" />
+
+    <EditText
+        android:id="@+id/et_content"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dip"
+        android:layout_marginRight="10dip"
+        android:background="@drawable/ll_bg"
+        android:gravity="left|top"
+        android:hint="请留下您的宝贵意见,我们会更加努力"
+        android:inputType="textMultiLine"
+        android:minLines="6"
+        android:padding="5dip" >
+    </EditText>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="10dip"
+        android:text="联系方式"
+        android:textSize="16sp" />
+
+    <EditText
+        android:id="@+id/et_contact_way"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dip"
+        android:layout_marginRight="10dip"
+        android:background="@drawable/ll_bg"
+        android:hint="请留下您的联系方式"
+        android:padding="5dip" />
+
+    <Button
+        android:id="@+id/btn_submit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dip"
+        android:layout_marginRight="10dip"
+        android:layout_marginTop="10dip"
+        android:background="@drawable/selector_btn_bg"
+        android:gravity="center"
+        android:padding="5dip"
+        android:text="提交"
+        android:textColor="#ffffff"
+        android:textSize="18sp" />
+
+</LinearLayout>

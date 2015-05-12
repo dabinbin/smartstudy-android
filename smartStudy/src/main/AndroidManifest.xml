@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.innobuddy.SmartStudy"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="20" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <!-- 友盟统计权限 -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+    <application
+        android:name="com.innobuddy.SmartStudy.application.SmartStudyApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:logo="@drawable/ic_logo"
+        android:theme="@style/AppTheme" >
+
+        <!-- 友盟统计的key和渠道 -->
+        <meta-data
+            android:name="UMENG_APPKEY"
+            android:value="5519f958fd98c5e0eb000264" >
+        </meta-data>
+        <meta-data
+            android:name="UMENG_CHANNEL"
+            android:value="test" />
+
+        <activity
+            android:name="io.vov.vitamio.activity.InitActivity"
+            android:configChanges="orientation|screenSize|smallestScreenSize|keyboard|keyboardHidden|navigation"
+            android:launchMode="singleTop"
+            android:theme="@android:style/Theme.NoTitleBar"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+        <activity
+            android:name="com.innobuddy.SmartStudy.activity.SplashActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.innobuddy.SmartStudy.fragment.MainActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.innobuddy.SmartStudy.Video.VideoPlayerActivity"
+            android:label="@string/title_activity_video"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.innobuddy.SmartStudy.activity.RecentWatchActivity"
+            android:label="@string/title_activity_recent_watch"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.innobuddy.SmartStudy.activity.user.LoginActivity"
+            android:label="@string/title_activity_login"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.innobuddy.SmartStudy.activity.user.RegisterActivity"
+            android:label="@string/title_activity_register"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.innobuddy.SmartStudy.activity.user.RegisterPswActivity"
+            android:label="@string/title_activity_register"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.innobuddy.SmartStudy.activity.user.BackPasswordActivity"
+            android:label="@string/title_activity_backpassword"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.innobuddy.SmartStudy.activity.user.ResetPasswordActivity"
+            android:label="@string/title_activity_reset"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.innobuddy.SmartStudy.activity.AboutUsActivity"
+            android:label="@string/title_activity_aboutus"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.innobuddy.SmartStudy.activity.FeedbackActivity"
+            android:label="@string/title_activity_feedback"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.innobuddy.SmartStudy.activity.WebViewActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+
+        <service android:name="com.innobuddy.download.services.TrafficCounterService" >
+        </service>
+        <service android:name="com.innobuddy.download.services.DownloadService" >
+            <intent-filter>
+                <action android:name="com.innobuddy.download.services.IDownloadService" />
+            </intent-filter>
+        </service>
+
+        <activity
+            android:name="com.innobuddy.SmartStudy.activity.CollectActivity"
+            android:label="@string/title_activity_collect"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.innobuddy.SmartStudy.activity.CourseDetailActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+    </application>
+
+</manifest>

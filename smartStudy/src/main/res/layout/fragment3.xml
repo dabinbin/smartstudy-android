@@ -1,0 +1,21 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f0f0f0"
+    android:orientation="vertical" >
+
+    <com.innobuddy.SmartStudy.ui.TabFragmentIndicator
+        android:layout_width="match_parent"
+        android:id="@+id/tabFragmentIndicator"
+        android:background="@drawable/ab_stacked_solid_custom"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" />
+         
+    <android.support.v4.view.ViewPager
+        android:id="@+id/viewPager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+    </android.support.v4.view.ViewPager>
+
+</LinearLayout>
